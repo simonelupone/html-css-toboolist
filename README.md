@@ -16,3 +16,7 @@
 ## 🔄 Requisiti GitHub  
 
 📌 **Numero minimo di push richiesti:** **6**  
+
+## Anteprima
+
+[-> PREVIEW <-](https://simonelupone.github.io/html-css-toboolist/)
