@@ -3,3 +3,38 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background: gray;
+    font-family: "Roboto", serif;
+}
+
+header {
+    padding: 20px 30px;
+    background: rgb(230, 230, 230);
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.logo-img {
+    vertical-align: middle;
+    margin-right: 10px;
+    height: 80px;
+}
+
+#title {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 4em;
+    color: #000;
+}
+
+.task-section {
+    width: 1300px;
+    height: 700px;
+    margin: 80px auto;
+    background: #FFF;
+}
